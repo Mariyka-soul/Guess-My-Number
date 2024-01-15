@@ -3,4 +3,4 @@
 
 ## Try it yourself 
 
-[Link to еру game](https://mariyka-soul.github.io/Guess-My-Number/)
+[Link to the game](https://mariyka-soul.github.io/Guess-My-Number/)
