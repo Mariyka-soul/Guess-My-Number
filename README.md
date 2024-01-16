@@ -1,5 +1,5 @@
 # Guess my number
-Welcome to the Guess My Number game, a retro-inspired project reminiscent of 80s games. The objective is simple: guess the secret number between 1 and 20
+Welcome to the Guess My Number game. The style for the project is inspired with reminiscent of 80s games. The objective is simple: guess the secret number between 1 and 20
 
 ## How to Play
 1. Enter a number in the input field.
